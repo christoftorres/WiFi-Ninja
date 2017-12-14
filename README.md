@@ -2,7 +2,7 @@
 # WiFi-Ninja
 Copyright (C) 2017 - Christof Torres
 
-![WiFi-Ninja-Logo](https://raw.githubusercontent.com/christoftorres/WiFi-Ninja/master/WiFi-Ninja/Images.xcassets/AppIcon.appiconset/Ninja-icon.png?raw=true "WiFi-Ninja-Logo")
+![WiFi-Ninja-Logo](https://raw.githubusercontent.com/christoftorres/WiFi-Ninja/master/WiFi-Ninja/Images.xcassets/AppIcon.appiconset/Ninja-icon256x256.png?raw=true "WiFi-Ninja-Logo")
 
 License/usage:
 =========================
